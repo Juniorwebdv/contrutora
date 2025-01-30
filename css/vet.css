@@ -494,3 +494,23 @@ background-position: center;
 max-width: 100%;
 overflow: hidden;
 }
+
+
+@media only screen and (max-width: 380px){
+
+
+h1{
+font-size: : 8px;
+color: ;
+
+}
+
+
+
+#logo{
+background-color: ;
+font-size: : 10px;
+
+}
+
+}
