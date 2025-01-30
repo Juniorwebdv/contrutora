@@ -1,0 +1,202 @@
+
+body{
+font-family: 'Crete Round', serif;
+
+
+}
+
+
+/*Header*/
+.inside{
+width: 800px;
+max-width: 100%;
+background: ;
+
+
+}
+
+.kk{
+max-width: 100%;
+width: auto;
+}
+
+.midd p{
+color: black;
+width: 850px;
+max-width: 100%;
+background: #F2F2F2;
+margin: 0 auto;
+padding: 9px 40px;
+height: auto;
+margin-top: 40px;
+
+border-left: solid 2px black;
+}
+
+.lin li{
+display: inline-block;
+float: right;
+padding: 6px 18px;
+
+}
+
+ul li{
+float: right;
+display: inline-block;
+padding: 6px 9px;
+}
+
+
+.logo{
+
+border-top: solid 5px black;
+
+position: relative;
+width: 90px;
+height: 70px;
+background: url('C:/Users/DUCTOR/Desktop/Agencia-DV/images/bal.jpg');
+float: left;
+margin-top: 5px;
+margin-right: 9px;
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+
+
+}
+
+
+.fa-instagram,.fa-facebook-square,.fa-linkedin-square{
+color:black;
+
+
+}
+
+
+.capa{
+height: 80%;
+background: url('https://static.pexels.com/photos/140945/pexels-photo-140945.jpeg');
+background-size: cover;
+background-repeat: no-repeat;
+
+}
+
+h2{
+text-align: center;
+font-size: 50px;
+color: white;
+
+
+}
+
+.text{
+top: 30%;
+position: relative;
+
+}
+
+/*sdasd*/
+
+/* Middle*/
+
+.clearfix{
+clear: both;
+
+}
+
+.fa-phone{
+color:black;
+
+}
+
+
+i {
+
+color: white;
+font-size: 25px;
+}
+.middle{
+background: #2c5b77;
+padding: 20px;
+max-width: 100%;
+height: auto;
+
+
+}
+
+
+.bottom{
+background: #F2F2F2;
+height: auto;
+padding: 10px;
+margin-top: 10%;
+
+}
+
+.bm{
+max-width: 100%;
+height: auto;
+width: 850px;
+
+margin: 0 auto;
+padding: 0 auto;
+
+}
+
+h3{
+color: white;
+
+}
+
+.mid{
+width: 850px;
+max-width: 100%;
+
+}
+p{
+color: white;
+
+}
+h4{
+
+border-bottom: solid 3px #f2f2f2;
+
+}
+
+
+.nd{
+
+height:auto;
+margin: 0 auto;
+
+margin-top: 50px;
+max-width: 100%;
+width: 850px;
+}
+
+.bl{
+color: black;
+
+
+}
+
+.be{
+margin-top: 80px;
+
+
+}
+
+
+.sp{
+
+	margin: 8px;
+}
+
+
+.lan{
+
+margin-top: 10%;
+
+}
+
+/*Middle*/

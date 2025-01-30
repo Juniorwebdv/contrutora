@@ -1,0 +1,215 @@
+
+body{
+margin: 0 auto;
+padding: 0 auto;
+font-family: 'Roboto Slab', serif;
+
+}
+
+
+
+.ph{
+background:#a7a7a7;
+color: white;
+text-align: right;
+font-size: 30px;
+max-width: 100%;
+}
+
+
+
+.ta{
+width: 100%;
+max-width: 100%;
+height: auto;
+
+
+}
+
+.clearfix{
+clear: both;
+
+}
+
+
+.cal{
+color: white;
+background:#0099cb;
+width: auto;
+height: auto;
+margin: auto;
+margin-top: auto;
+padding: 0.2px 7px;
+max-width: 100%;
+text-align: center;
+
+}
+
+.env{
+text-align: center;
+color: white;
+background: #a7a7a7;
+padding: 11px;
+font-size: 22px;
+max-width: 100%;
+}
+.la{
+
+background: #fafafa;
+
+}
+.navbar-toggle {
+background: #0099cb;
+color: white;
+margin-top: 20px;
+}
+
+.fa-facebook,.fa-twitter,.fa-google-plus,.fa-linkedin{
+padding: 0px 20px;
+
+
+
+}
+
+.soc{
+background: ;
+width: auto;
+height: auto;
+text-align: center;
+max-width: 100%;
+
+}
+
+
+
+#p{
+padding: 7px;
+
+}
+h3{
+text-transform: uppercase;
+border-left: solid 4px #0099cb;
+color: black;
+padding: 0px 8px;
+
+}
+.cover{
+height: 60%;
+background: url('../img/cover.jpg');
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+margin-bottom: 10%;
+}
+
+.logo{
+width: 800px;
+max-width: 100%;
+padding: 10px;
+background: ;
+margin-bottom: 4px;
+}
+
+.back{
+background:white;
+max-width: 100%;
+
+}
+
+.navbar-right{
+margin-top: 19px;
+
+}
+
+a{
+color: black;
+
+}
+
+
+
+
+.navbar-right .active:hover{
+background:#0099cb;
+color: white;
+}
+
+
+.navbar-right .active{
+background:#0099cb;
+color: white;
+border-radius: 8px;
+
+}
+
+
+.navbar-right .link:hover{
+background: #0099cb;
+ color: white;
+border-radius: 8px;
+}
+
+.navbar-right .link{
+font-size: 12px;
+}
+
+
+
+
+
+
+h1{
+margin-right: 30px;
+
+}
+
+
+.left{
+float: left;
+
+}
+
+
+.submenuback{
+background: #FAFAFA;
+width: 100%;
+
+}
+
+.submenu{
+margin: 0 auto;
+max-width: 100%;
+height: auto;
+width: 940px;
+padding:10px;
+font-size: 12px;
+}
+
+.menu ,.sublink{
+display: inline-block;
+padding:0px 20px;
+margin-top: 3px;
+
+
+}
+
+.fa-home{
+margin-right: 40px;
+
+}
+.sobre{
+color: black;
+width: 300px;
+height: 130px;
+background: white;
+text-align: justify;
+margin-top: 5%;
+font-size: 12px;
+}
+
+
+footer{
+background: #333333;
+color: white;
+padding: 20px;
+}

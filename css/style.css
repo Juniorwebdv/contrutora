@@ -1,0 +1,672 @@
+
+body{
+font-family: 'Patua One', cursive;
+position: relative;
+}
+
+
+button{
+
+
+}
+
+.header-text {
+  position: absolute;
+  top: 40%;
+  left: 1.8%;
+  right: auto;
+  width: 96.66666666666666%;
+  color: #fff;
+}
+.navbar-toggle {
+background: #A87878;
+text-align: center;
+}
+
+.navbar{
+background:#59323C;
+border:none;
+opacity: 0.9;
+}
+
+
+.icon-bar{
+background: white;
+
+}
+
+
+
+ul li a{
+color: white;
+font-size: 15px;
+}
+
+ul li:hover{
+background: none;
+
+}
+.navbar-brand{
+color: white;
+
+}
+
+.navbar-brand:hover{
+color: white;
+
+}
+.navbar a:hover{
+background: none;
+
+}
+
+
+.bre{
+background: ;
+text-align: 
+}
+.header-text h2 {
+  font-size: 40px;
+}
+
+
+.header-text h1 span {
+  background-color: #2980b9;
+  padding: 10px;
+}
+.header-text h2 span {
+  background-color: none;
+  padding: 10px;
+text-shadow: 5px 4px black;
+}
+
+.header-text h3 span {
+  background-color: #59323C;
+  padding: 15px;
+opacity: 0.9;
+
+}
+
+/*MIDDLE*/
+.grey{
+background: white;
+height: 380px;
+
+
+}
+
+.blue{
+height: auto;
+background: #59323C;
+color: white;
+height: 380px;
+}
+
+
+.content{
+padding: 30px;
+
+width: 100%;
+height: auto;
+max-width: 100%;
+margin-top: 40px;
+}
+
+.cont{
+padding: auto;
+width: 500px;
+
+height: auto;
+max-width: 100%;
+}
+
+h4{
+font-size: 22px;
+text-transform: uppercase;
+
+}
+
+h5{
+text-transform: uppercase;
+font-size: 18px;
+}
+
+
+.clearfix{
+clear: both;
+
+}
+
+
+.quote{
+width: 800px;
+margin: 0 auto;
+height: auto;
+max-width: 100%;
+color: white;
+padding: 30px;
+}
+.container-fluid{
+background:#705351;
+
+}
+
+
+.head{
+background:orange;
+width: 100%;
+
+}
+
+
+.imagem{
+margin: 0;
+padding: 0;
+height:auto; 
+}
+
+
+
+
+.aga{
+background: ;
+margin: 0;
+padding: 0;
+height: ;
+
+}
+
+
+.division{
+padding: 10px 30px;
+margin-top: 20px;
+height: auto;
+width: auto;
+max-width: 100%;
+
+}
+
+
+
+.no{
+
+width: 100%;
+max-width: 100%;
+height: auto;
+color: black;
+}
+
+.eyes{
+    padding: 30px;
+color: white;
+background:  #59323C;
+}
+
+
+
+
+
+
+.hd{
+background:none ;
+width: 700px;
+margin: 0 auto;
+max-width: 100%;
+height:auto;
+max-height: 100%;
+margin-top: -40px;
+padding: 14px;
+}
+
+.cod{
+width: 110px;
+height: 110px;
+background: #f2f2f2;
+margin-top: 2%;
+border-radius: 100px;
+background: url('C:/Users/DUCTOR/Desktop/Agencia-DV/images/html.png');
+background-repeat: no-repeat;
+background-size: 80px;
+background-position: center;
+background-color: white;;
+margin: 0 auto;
+opacity: 0.8;
+}
+
+
+#cs{
+
+width: 110px;
+height: 110px;
+background: #f2f2f2;
+margin: 0 auto;
+border-radius: 100px;
+background: url('C:/Users/DUCTOR/Desktop/Agencia-DV/images/css.png');
+background-repeat: no-repeat;
+background-size: 80px;
+background-position: center;
+background-color: white;;
+margin-top: 2%;
+opacity: 0.8;
+
+
+}
+
+
+
+#jav{
+
+width: 110px;
+height: 110px;
+background: #f2f2f2;
+margin: 0 auto;
+border-radius: 100px;
+background: url('C:/Users/DUCTOR/Desktop/Agencia-DV/images/js.png');
+background-repeat: no-repeat;
+background-size: 56px;
+background-position: center;
+background-color: white;;
+margin-top: 2%;
+opacity: 0.8;
+
+
+}
+
+
+
+
+
+
+
+
+.lan{
+
+margin-top: 10%;
+margin-bottom: ;
+
+
+}
+
+.oe{
+
+margin-right: 48px;
+margin-left: 40px;
+}
+
+
+
+.bac{
+background: #705351;
+height: auto;
+max-width: 100%;
+width: auto;
+max-height: 100%;
+}
+
+.mar{
+width: auto;
+background: ;
+max-width: 100%;
+font-size: 15px;
+}
+
+
+
+.gh{
+font-size: 16px;
+
+}
+
+
+
+
+h2{
+text-transform: uppercase;
+
+}
+.weight{
+font-size: 16px;
+
+}
+
+
+.sites{
+
+width: 310px;
+height: 360px;
+background: url('C:/Users/DUCTOR/Desktop/Agencia-DV/images/thumb/2.jpg');
+background-position: top;
+background-size: cover;
+background-repeat: no-repeat;
+border:none;
+margin:0 auto;
+cursor:zoom-in;
+
+
+}
+
+
+
+
+
+#management{
+
+background: url('C:/Users/DUCTOR/Desktop/Agencia-DV/images/thumb/1.jpg');
+background-position: top;
+background-size: cover;
+background-repeat: no-repeat;
+border:none;
+margin:0 auto;
+
+cursor:zoom-in;
+}
+
+#lawer{
+background: url('C:/Users/DUCTOR/Desktop/Agencia-DV/images/thumb/3.jpg');
+background-position: top;
+background-size: cover;
+background-repeat: no-repeat;
+border:none;
+margin:0 auto;
+cursor:zoom-in;
+}
+
+#design{
+
+background: url('C:/Users/DUCTOR/Desktop/Agencia-DV/images/thumb/4.jpg');
+  background-position: top;
+background-size: cover;
+background-repeat: no-repeat;
+border:none;
+margin:0 auto;  
+
+cursor:zoom-in;
+}
+
+
+#comerce{
+background: url('C:/Users/DUCTOR/Desktop/Agencia-DV/images/thumb/5.jpg');
+  background-position: top;
+background-size: cover;
+background-repeat: no-repeat;
+border:none;
+margin:0 auto;  
+cursor:zoom-in;
+}
+
+
+#wom{
+
+background: url('C:/Users/DUCTOR/Desktop/Agencia-DV/images/thumb/6.jpg');
+  background-position: top;
+background-size: cover;
+background-repeat: no-repeat;
+border:none;
+margin:0 auto;  
+cursor:zoom-in;
+}
+
+
+.sit{
+background: #f2f2f1;
+height: auto;
+
+}
+
+#cont{
+background: ;
+padding-bottom:  10%;
+}
+
+
+.title{
+text-align: center;
+margin-bottom: 3%;
+margin-top: 10%;
+color: black;
+
+}
+
+
+h5{
+margin-bottom: 3%;
+
+}
+
+.ca{
+margin-top: 13px;
+
+margin-left: none;
+
+
+}
+
+
+
+
+.credit{
+background: 
+
+height: auto;
+
+width: 100%;
+
+
+}
+
+.iconn{
+background:#705351; 
+height: auto;
+color: white;
+padding: 20px;
+width: 780px;
+max-width: 100%;
+
+}
+
+
+
+
+
+.fa-globe,.fa-mobile,{
+float: left;
+margin-right: 9px;
+
+
+}
+.fa-commenting{
+
+float: left;
+margin-right: 9px;
+}
+
+
+.fa-cc-visa{
+font-size: 50px;
+margin: 0 auto;
+text-align: center;
+text-align: center center;
+width: auto;
+}
+
+.fa-cc-mastercard{
+font-size: 50px;
+margin: 0 auto;
+width: auto;
+}
+.fa-cc-discover{
+font-size: 50px;
+margin: 0 auto;
+width: auto;
+
+
+}
+
+#cover-form{
+background: url('C:/Users/DUCTOR/Desktop/Agencia-DV/images/persson.jpg');
+height: 100%;
+background-size: cover;
+background-repeat: no-repeat;
+background-position: top;
+color: white;
+}
+ 
+
+ form{
+text-shadow: 4px 5px 5px #000;
+ }
+
+ .marg{
+margin-top: 7%;
+
+ }
+
+
+.form-text{
+margin-bottom: 10%;
+text-transform: uppercase;
+font-size: 29px;
+text-shadow: 4px 5px 5px #000;
+}
+
+
+
+#formName,#formEmail,.form-control{
+opacity: 0.9;
+
+}
+
+.shd{
+text-shadow: 4px 5px 5px #000;
+
+}
+
+
+.white{
+background: none;
+overflow: hidden;
+width: 100%;
+
+}
+
+.cc{
+padding: 20px;
+background: white;
+width: 100%;
+overflow: hidden;
+height: auto;
+max-width: 100%;
+text-align: justify-all;
+
+}
+
+
+.pading{
+padding-top: 7%;
+
+
+}
+.padingg{
+padding-top: 10%;
+
+}
+
+.goo{
+width: 100%;
+height: auto;
+padding: 0;
+margin: 0;
+overflow: hidden;
+
+
+
+}
+
+.riig{
+float: right;
+font-size: 15px;
+
+color: white;
+}
+
+footer{
+background: #59323c;
+height: auto;
+text-align: left;
+padding-top: 
+
+
+}
+
+.fa-facebook:hover{
+color: black;
+opacity: 0.4;
+}
+
+.media a{
+font-size: 20px;
+color: white;
+padding: 0px 10px;
+}
+
+.media{
+padding: 20px;
+
+}
+
+.in{
+background: ;
+width: 1200px;
+max-width: 100%;
+
+
+}
+
+.rightt a {
+float: right;
+
+}
+@media screen and (max-width: 740px){
+
+
+.header-text{
+width: auto;
+
+margin:0 auto;
+
+margin-top: -4%;
+text-transform: none;
+}
+
+.header-text h3 span {
+  background-color: #59323C;
+  padding: 15px;
+opacity: 0.9;
+display: none;
+}
+
+
+
+.header-text h1 span {
+  background-color: #2980b9;
+  padding: 10px;
+
+}
+.header-text h2 span {
+  background-color: none;
+  padding: 10px;
+text-shadow: 5px 4px black;
+}
+
+.header-text h2 {
+  font-size: 26px;
+}
+}
+
+/*Middle the page/*
+
+
+
+
+
+

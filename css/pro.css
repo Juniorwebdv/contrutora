@@ -1,0 +1,192 @@
+
+body{
+background: #5E9DA4;
+font-family: 'PT Sans', sans-serif;
+
+}
+
+
+.center{
+
+width: 1100px;
+max-width: 100%;
+margin: 0 auto;
+height: auto;
+background: #f6f5f1;
+
+padding: 0px 30px;
+
+
+}
+
+.logo{
+width: 200px;
+background: red;
+
+
+}
+
+
+h1{
+font-family: 'PT Sans', sans-serif;
+font-size: 45px;
+
+}
+
+span{
+
+color: rgb(217, 123, 124);
+font-family: 'PT Sans', sans-serif;
+}
+
+
+header{
+width: 1100px;
+max-width: 100%;
+margin: 0 auto;
+background:#f6f5f1;
+padding: 5px;
+}
+
+.cover{
+height:400px;
+background: url('../img/pexels-edward-jenner-4033148.jpg');
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+max-width: 100%;
+width: 100%;
+border:solid 3px #f2f2f2;
+
+}
+i{
+
+color:#D35755 ;
+}
+
+
+.fuck{
+
+float: right;
+width: 200px;
+text-align: center;
+padding:20px ;
+background: #5E9DA4;
+text-align: left;
+height: 100%;
+
+}
+
+
+
+
+ .lin   {
+color: white;
+text-decoration: none;
+}
+
+.lin:hover{
+text-decoration: none;
+
+
+}
+
+
+.list{
+border-bottom: solid 1px white;
+margin-bottom: 16px;
+font-size: 20px;
+color: white;
+
+
+}
+
+
+.rig{
+float: right
+
+
+
+}
+
+.clearfix{
+clear: both;
+
+}
+
+input[type="search"],button{
+
+margin-top: 29px;
+border:none;
+}
+
+.inside{
+width: auto;
+max-width: 100%;
+height: auto;
+margin: 0 auto;
+
+}
+
+.below{
+
+width: auto;
+max-width: 100%;
+height: auto;
+
+}
+
+.b{
+padding: 20px 20px;
+width: 300px;
+max-width: 100%;
+}
+
+#ba{
+background: #D35755;
+font-size: 20px;
+text-transform: uppercase;
+color: white;
+
+}
+
+#be{
+background: rgb(233, 124, 81);
+font-size: 20px;
+text-transform: uppercase;
+color: white;
+
+}
+
+#bc{
+background: rgb(250, 172, 90);
+font-size: 20px;
+text-transform: uppercase;
+color: white;
+
+}
+
+
+.an{
+width: 100%;
+max-width: 100%;
+margin-top: 10%;
+
+}
+
+.middle{
+margin-top: 8%;
+
+}
+footer p{
+clear: both;
+background: #5E9DA4;
+width: 1100px;
+margin:0 auto;
+text-align: center;
+color: white;
+padding: 10px;
+border:solid 1px white;
+max-width: 100%;
+
+}

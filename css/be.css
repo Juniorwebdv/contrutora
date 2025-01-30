@@ -1,0 +1,225 @@
+
+
+
+/* NAVIGATION */
+body{
+background: #F1F1F1;
+
+}
+
+/* NAVIGATION */
+.navbar {
+background: #f46553;
+border: none;
+color: white;
+padding: 7px;
+overflow: hidden;
+opacity: 0.9;
+}
+
+.navbar-toggle {
+background: #f46553;
+
+}
+
+.container-fluid{
+
+width: 950px;
+max-width: 100%;
+margin:0 auto;
+height: 100%;
+}
+
+.icon-bar{
+background: white;
+
+}
+a.navbar-brand {
+color: white;
+font-family: 'Pangolin', cursive;
+font-size: 30px;
+}
+
+
+
+ .link{
+
+ color: white;
+ }
+
+ .link:hover{
+background: none;
+
+ }
+
+ .clearfix{
+clear: both;
+
+ }
+
+ .header-text {
+  position: absolute;
+  top: 40%;
+  left: 1.8%;
+  right: auto;
+  width: 96.66666666666666%;
+  color: #fff;
+}
+
+
+/* Middle */
+
+.wrapper{
+background: white;
+box-shadow: solid 2px grey;
+}
+
+.about{
+padding: 10px;
+background: white;
+max-width: 100%;
+height: auto;
+
+}
+
+
+
+.new{
+background:url('https://www.kreativphoto.com/wp-content/uploads/2016/10/Traveler-Man-alone-on-mountain-cliff-photo.jpg');
+height: 200px;
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+cursor:zoom-in;
+overflow: hidden;
+margin-bottom: none;
+}
+.botom{
+background: white;
+height: 80px;
+
+}
+
+.pr{
+padding: 20px;
+
+}
+
+.clearfix{
+clear: both;
+
+}
+
+
+.item-title{
+text-align: center;
+color: orange;
+
+}
+
+.top{
+height: 120px;
+background: #40C1E3;
+padding: 22px;
+}
+
+.bax{
+height: 70px;
+background: #29acdc;
+padding-left: 12px;
+padding-top: 20px;
+}
+
+#no{
+background:url('https://static.pexels.com/photos/196666/pexels-photo-196666.jpeg');
+height: 200px;
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+cursor:zoom-in;
+overflow: hidden;
+margin-bottom: none;
+
+}
+
+.single{
+margin-top: 10px;
+
+}
+
+.navbar-right a{
+	color: white;
+font-family: 'Pangolin', cursive;
+
+}
+
+ .navbar-right .link:hover{
+background:none;
+color: white;
+text-decoration: none;
+
+
+}
+
+ .navbar-collapse .link:hover{
+background:none;
+color: green;
+text-decoration: none;
+
+}
+
+ .navbar-collapse li{
+
+ }
+.bb{
+color: white;
+text-align: center;
+font-size: 17px;
+
+}
+
+.fa-clock-o{
+color: white;
+
+}
+
+.min{
+	color: white;
+}
+
+
+.back{
+margin-top: 5%;
+background: #4C5365;
+padding:16px;
+}
+
+h4{
+color: white;
+text-transform: uppercase;
+
+}
+
+.wh{
+color: white;
+font-size: 12px;
+}
+
+
+.border{
+border-bottom: solid 1px white;
+
+}
+.link2{
+color: white;
+
+}
+
+.link2:hover{
+color: orange;
+text-decoration: none;
+}
+
+
+
+/* NAVIGATION */

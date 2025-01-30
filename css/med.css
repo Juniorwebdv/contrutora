@@ -1,0 +1,147 @@
+
+body{
+margin: 0 auto;
+padding: 0 auto;
+clear: both;
+font-family: 'Archivo Narrow', sans-serif;
+
+}
+
+.logo{
+width: 120px;
+height: 50px;
+background: url('C:/Users/DUCTOR/Desktop/Agencia-DV/img/sa.png');
+background-position: center;
+background-repeat: no-repeat;
+background-size: 99px;
+float: left;
+
+}
+ .header-text {
+  position: absolute;
+  top: 35%;
+  left: 1.8%;
+  right: auto;
+  width: 96.66666666666666%;
+  color: #fff;
+}
+
+
+.navbar-default{
+background: white;
+margin-bottom: 0;
+
+
+}
+
+
+.first{
+margin-top: 5%;
+width: 700px;
+max-width: 100%;
+height: auto;
+margin-bottom: 4%;
+
+}
+#beck{
+background:#f2f1f6;
+overflow: hidden;
+
+width: 100%;
+}
+
+.second{
+margin-bottom: 4%;
+
+
+}
+
+h2{
+text-shadow: 2px 1px  2px #000;
+text-transform: uppercase;
+font-size: 40px;
+
+}
+
+
+button[type="button"]{
+width: auto;
+height: auto;
+font-size: 20px;
+}
+
+#fud .link:hover{
+color: #3faf91;
+
+}
+
+ .active{
+color:#3faf91; 
+
+}
+
+.container-fluid {
+width: 1230px;
+max-width: 100%;
+height: auto;
+background: white;
+
+}
+
+.navbar-nav li {
+padding: 0px 4px;
+font-size: 17px;
+
+
+}
+
+
+
+.carr{
+overflow: hidden;
+
+
+}
+
+.fa-paw{
+color: #3faf91;
+
+
+}
+
+.bottom{
+height: 40px;
+background: white;
+width: auto;
+}
+
+.im{
+margin-top: 3%;
+
+}
+
+.imge :hover{
+opacity: 0.9;
+
+}
+
+.inside{
+padding:20px;
+
+
+}
+
+.green{
+background: #3fb094;
+color: white;
+width: 100%;
+overflow: hidden;
+}
+
+
+
+.about{
+text-align: justify;
+
+
+}
