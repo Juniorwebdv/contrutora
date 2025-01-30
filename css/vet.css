@@ -293,7 +293,7 @@ margin-top: 5%;
 
 width: 100px;
 height: 70px;
-background: url('../img1/icon1.jpg');
+background: url('..img1/icon1.jpg');
 margin: 0 auto;
 overflow: none;
 background-size: cover;
@@ -305,7 +305,7 @@ background-position: center;
 
 width: 100px;
 height: 70px;
-background: url('../img1/icon2.jpg');
+background: url('..img1/icon2.jpg');
 margin: 0 auto;
 overflow: none;
 background-size: cover;
@@ -317,7 +317,7 @@ background-position: center;
 
 width: 100px;
 height: 70px;
-background: url('../img1/icon3.jpg');
+background: url('..img1/icon3.jpg');
 margin: 0 auto;
 overflow: none;
 background-size: cover;
@@ -329,7 +329,7 @@ background-position: center;
 
 width: 100px;
 height: 70px;
-background: url('../img1/icon4.jpg');
+background: url('..img1/icon4.jpg');
 margin: 0 auto;
 overflow: none;
 background-size: cover;
