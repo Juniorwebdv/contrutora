@@ -500,7 +500,7 @@ overflow: hidden;
 .logo1{
 width: 200px;
 height: 100px;
-background: url('.../img1/logo1.png');
+background: url('../img1/logo1.png');
 background-size:120px;
 background-repeat: no-repeat;
 background-position: center;
@@ -542,7 +542,7 @@ background-color: ;
 .logo1{
 width: 200px;
 height: 100px;
-background: url('.../img1/logo1.png');
+background: url('../img1/logo1.png');
 background-size:120px;
 background-repeat: no-repeat;
 background-position: center;
