@@ -329,7 +329,7 @@ background-position: center;
 
 width: 100px;
 height: 70px;
-background: url('../img1/icon4.JPG');
+background: url("/img1/icon4.JPG");
 margin: 0 auto;
 overflow: none;
 background-size: cover;
