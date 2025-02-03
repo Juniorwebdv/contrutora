@@ -500,7 +500,7 @@ overflow: hidden;
 .logo1{
 width: 200px;
 height: 100px;
-background: url(../img1/logo1.png);
+background: url(img1/logo1.png);
 background-size:120px;
 background-repeat: no-repeat;
 background-position: center;
@@ -510,7 +510,7 @@ margin: 0 auto;
 .logo2{
 width: 200px;
 height: 100px;
-background: url(../img1/logo2.png);
+background: url(img1/logo2.png);
 background-size:120px;
 background-repeat: no-repeat;
 background-position: center;
@@ -520,7 +520,7 @@ margin: 0 auto;
 .logo3{
 width: 200px;
 height: 100px;
-background: url(../img1/logo3.png);
+background: url(img1/logo3.png);
 background-size:120px;
 background-repeat: no-repeat;
 background-position: center;
@@ -562,7 +562,7 @@ margin: 0 auto;
 .logo3{
 width: 200px;
 height: 100px;
-background: url(../img1/logo3.png);
+background: url(img1/logo3.png);
 background-size:120px;
 background-repeat: no-repeat;
 background-position: center;
