@@ -495,17 +495,86 @@ max-width: 100%;
 overflow: hidden;
 }
 
-@media only screen and (max-width: 380px){
+@media only screen and (max-width: 760px){
 
+.logo1{
+width: 200px;
+height: 100px;
+background: url(img1/logo1.png);
+background-size:120px;
+background-repeat: no-repeat;
+background-position: center;
+margin: 0 auto;
+}
 
+.logo2{
+width: 200px;
+height: 100px;
+background: url(img1/logo2.png);
+background-size:120px;
+background-repeat: no-repeat;
+background-position: center;
+margin: 0 auto;
+}
 
+.logo3{
+width: 200px;
+height: 100px;
+background: url(img1/logo3.png);
+background-size:120px;
+background-repeat: no-repeat;
+background-position: center;
+max-width: 100%;
+overflow: hidden;
+margin: 0 auto;
+background-color: ;
 
+}
+}
+@media only screen and (max-width: 480px){
+
+.jfcontainer{
+
+background-color: ;
+
+}
+
+.logo1{
+width: 200px;
+height: 100px;
+background: url(img1/logo1.png);
+background-size:120px;
+background-repeat: no-repeat;
+background-position: center;
+margin: 0 auto;
+}
+
+.logo2{
+width: 200px;
+height: 100px;
+background: url(img1/logo2.png);
+background-size:120px;
+background-repeat: no-repeat;
+background-position: center;
+margin: 0 auto;
+}
+
+.logo3{
+width: 200px;
+height: 100px;
+background: url(img1/logo3.png);
+background-size:120px;
+background-repeat: no-repeat;
+background-position: center;
+max-width: 100%;
+overflow: hidden;
+margin: 0 auto;
+background-color: ;
+
+}
 
 #logo{
 background-color: ;
 font-size: : 10px;
 
 }
-
-}
-
